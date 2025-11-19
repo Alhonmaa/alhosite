@@ -8,8 +8,7 @@ hero_darken: true
 ---
 
 # Alhonmaan kansallissymbolit
+<img src="https://media.tenor.com/1k2Z3_dlFsgAAAAM/skull.gif" alt="Mun reaktio tästä sivusta" width="120" height="120">
 
-Halou testitesti Alhonmaa ![Screenshot1](/assets/images/alhonmaanelio.png)
-<p style="color: red;">This is HTML inside Markdown!</p>
 
 Liput vois lisäillä
