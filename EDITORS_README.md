@@ -10,7 +10,7 @@ Jokainen markdown-tiedosto pitää aloittaa seuraavalla pätkällä, niinkutsutu
     layout: page
     title: laita-tähän-otsikko
     permalink: /alakansio/tiedoston_nimi/
-    hero_image: /assets/images/newalhonmaa.png
+    hero_image: /alhosite/assets/images/newalhonmaa.png
     hero_height: is-fullwidth
     hero_darken: true
     ---
