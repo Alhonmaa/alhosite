@@ -28,6 +28,19 @@ Jokainen markdown-tiedosto pitää aloittaa seuraavalla pätkällä, niinkutsutu
 
 Permalink-kohtaan laitetaan markdown-tiedoston nimi ilman .md päätettä.
 
+Esimerkki legislation.md tiedoston alusta:
+
+    ---
+    layout: page
+    title: Lainsäädäntö ja politiikka
+    permalink: /legislation/
+    hero_image: /alhosite/assets/images/newalhonmaa.png
+    hero_height: is-fullwidth
+    hero_darken: true
+    ---
+
+Jos tiedosto olisi kansion example alla, niin permalink kohtaan tulisi /example/legislation/.
+
 "legislation" kansioon menee kaikki lakijutut.
 "geography" kansioon voi laiteilla rajoista ja maantieteestä jne.
 "culture" kansioon mitä vaan alhonmaalaisen kulttuurin ylpeydenaiheita.
