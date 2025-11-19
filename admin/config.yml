@@ -1,0 +1,30 @@
+backend:
+  name: github
+  repo: alhonmaa/alhosite   # your GitHub repo
+  branch: main
+  auth_scope: repo
+  base_url: "/admin"
+  site_domain: "https://alhonmaa.github.io/alhosite"
+  client_id: "Ov23livQVVELmy0u1cHV"
+
+media_folder: "assets/images"       # where uploaded images go
+public_folder: "/assets/images"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: ""
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
