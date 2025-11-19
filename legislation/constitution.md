@@ -61,9 +61,9 @@ Kuningas voi nimittää Suuren neuvoston joukosta itselleen sijaishallitsijan, e
 
 Alhonmaata johtaa Suuri neuvosto, jolla on yksinoikeus:
 
-    1. esittää uutta lainsäädäntöä,
-    2. kumota aikaisempaa lainsäädäntöä ja
-    3. päättää hallintotehtävien jaosta.
+1. esittää uutta lainsäädäntöä,
+2. kumota aikaisempaa lainsäädäntöä ja
+3. päättää hallintotehtävien jaosta.
 
 Suuri neuvosto koostuu Alhonmaan neljästä ensimmäisestä perustajajäsenestä, sekä näiden perustajajäsenten yksimielisesti hyväksymistä muista jäsenistä. Kaikkien Suuren neuvoston jäsenten täytyy kuulua ylempään aateliin, ja heitä ei saa olla enempää kuin kuusi.
 
@@ -89,19 +89,19 @@ Lääniä johtaa Suuren neuvoston nimittämä lääninherra.
 
 Yliaatelia ovat lääninherrat ja Suuren neuvoston jäsenet. Yliaatelin aatelisarvot ovat arvojärjestyksessä, mutta lääninherralla ei voi olla alempaa aatelisarvoa, kuin muulla hänen hallinoimansa läänin aatelisella. Yliaatelin aatelisarvot ovat korkeimmasta alimpaan:
 
-    1. Ruhtinas,
-    2. Herttua,
-    3. Markiisi ja
-    4. Kreivi tai Jaarli.
+1. Ruhtinas,
+2. Herttua,
+3. Markiisi ja
+4. Kreivi tai Jaarli.
 
 ### 12 § - Perusaateli
 
 Perusaatelia ovat kaikki aateliset, jotka eivät ole lääninherroja tai Suuren neuvoston jäseniä. Perusaatelin aatelisarvot ovat korkeimmasta alimpaan:
 
-    1. Varakreivi,
-    2. Paroni,
-    3. Junkkeri tai
-    4. Vapaaherra.
+1. Varakreivi,
+2. Paroni,
+3. Junkkeri tai
+4. Vapaaherra.
 
 ### 13 § - Arvosäännöt
 
@@ -123,18 +123,18 @@ Sotilasarvot ja ylennykset jakaa Kuningas.
 
 Upseeriston arvot ovat:
 
-    1. Kenraali (maavoimissa), Amiraali (merivoimissa)
-    2. Kenraalimajuri (maavoimissa), Kontra-amiraali (merivoimissa)
-    3. Eversti (maavoimissa), Kommodori (merivoimissa)
-    4. Majuri (maavoimissa), Komentajakapteeni (merivoimissa)
-    5. Luutnantti ja
-    6. Vänrikki (maavoimissa), Aliluutnantti (merivoimissa).
+1. Kenraali (maavoimissa), Amiraali (merivoimissa)
+2. Kenraalimajuri (maavoimissa), Kontra-amiraali (merivoimissa)
+3. Eversti (maavoimissa), Kommodori (merivoimissa)
+4. Majuri (maavoimissa), Komentajakapteeni (merivoimissa)
+5. Luutnantti ja
+6. Vänrikki (maavoimissa), Aliluutnantti (merivoimissa).
 
 ALiupseeriston arvot ovat:
     
-    1. Sotilasmestari,
-    2. Vääpeli (maavoimissa), Pursimies (merivoimissa) ja
-    3. Kersantti.
+1. Sotilasmestari,
+2. Vääpeli (maavoimissa), Pursimies (merivoimissa) ja
+3. Kersantti.
 
 Miehistön arvot ovat Korpraali ja Sotamies. Tiedusteluvoimissa käytetään salaista sotilasarvoasteikkoa, josta päättää tiedusteluvoimat sisäisesti, mutta tiedusteluvoimien komentajalla on oltava julkinen upseerin arvo. Kenraalin tai amiraalin arvo on varattu Kuninkaalle.
 
