@@ -10,5 +10,6 @@ hero_darken: true
 # Alhonmaan kansallissymbolit
 
 Halou testitesti Alhonmaa ![Screenshot1](/assets/images/alhonmaanelio.png)
+<p> style="color: red;">This is HTML inside Markdown!</p>
 
 Liput vois lisäillä
