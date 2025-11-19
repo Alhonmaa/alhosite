@@ -1,13 +1,13 @@
 backend:
   name: github
-  repo: alhonmaa/alhosite   # your GitHub repo
+  repo: alhonmaa/alhosite
   branch: main
   auth_scope: repo
   base_url: "/admin"
   site_domain: "https://alhonmaa.github.io/alhosite"
   client_id: "Ov23livQVVELmy0u1cHV"
 
-media_folder: "assets/images"       # where uploaded images go
+media_folder: "assets/images"
 public_folder: "/assets/images"
 
 collections:
