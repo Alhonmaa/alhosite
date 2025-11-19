@@ -9,11 +9,5 @@ hero_darken: true
 
 # Alhonmaan kansallissymbolit
 <img align="right" src="{{site.baseurl}}/alhonmaanelio.png" alt="Mun reaktio tästä sivusta" width="120" height="120">
-<h2>Hello<h2>
-  
-![alhonmaanelio.png]({{site.baseurl}}/alhonmaanelio.png)
-  ![skibidi.png]({{site.baseurl}}/alhonmaanelio.png)
-
-
-
-Liput vois lisäillä
+<p align="right"> Alhonmaan digitaalinen lähes neliön muotoinen symboli</p>
+Alhonmaan mikrovaltion alkuaikoina kansa ei ollut ottanut yhteistä symbolia edustaakseen itseään. Tyhjiö kuitenkin saatiin paikattua ensimmäisellä koko kansan lipulla. Lakananvalkoisella taustalla näkyy sinisellä maalattuna työmiehen tarvikkeita ja viisikulmainen tähti. Symbolisesti lippu edusti TÄHÄN JAABA JAABA
