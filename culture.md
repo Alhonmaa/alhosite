@@ -8,9 +8,9 @@ hero_darken: true
 ---
 
 # Alhonmaan kansallissymbolit
+Alhonmaan mikrovaltion alkuaikoina kansa ei ollut ottanut yhteistä symbolia edustaakseen itseään. Tyhjiö kuitenkin saatiin paikattua ensimmäisellä koko kansan lipulla.
+
 | Selitys lipusta | Kuva lipusta |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Johannesburg!| [alholippu.png](/assets/images/alholippu.png)|
 
-Alhonmaan mikrovaltion alkuaikoina kansa ei ollut ottanut yhteistä symbolia edustaakseen itseään. Tyhjiö kuitenkin saatiin paikattua ensimmäisellä koko kansan lipulla. Lakananvalkoisella taustalla näkyy sinisellä maalattuna työmiehen tarvikkeita ja viisikulmainen tähti. Symbolisesti lippu edusti TÄHÄN JAABA JAABA
