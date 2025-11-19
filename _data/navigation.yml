@@ -1,0 +1,7 @@
+- name: Etusivu
+  link: /
+- name: Lainsäädäntö
+  link: /legislation/
+  dropdown: 
+    - name: Perustuslaki
+      link: /legislation/constitution/
