@@ -3,7 +3,11 @@
   dropdown: 
     - name: Perustuslaki
       link: /legislation/constitution/
+    - name: Salassapitolaki
+      link: /legislation/salassapitolaki/
 - name: Maantiede
   link: /geography/
 - name: Kulttuuri
   link: /culture/
+- name: Sivuston muokkaus
+  link: /EDITORS_README/

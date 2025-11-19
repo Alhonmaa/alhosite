@@ -1,4 +1,15 @@
+---
+layout: page
+title: SIVUSTON MUOKKAUS
+permalink: /EDITORS_README/
+hero_image: /alhosite/assets/images/newalhonmaa.png
+hero_height: is-fullwidth
+hero_darken: true
+---
+
 # Jaa että miten tätä ajetaan?
+
+Jos haluat muokata nettisivua, tee github käyttäjä ja pyydä Alhonmaa-käyttäjältä, että sinut lisätään muokkaajaksi. Sen jälkeen mene prose.io sivulle ja lisää alhonmaa uudeksi projektiksi Alhonmaa/alhosite.
 
 Sivuja voi järjestellä kansioihin. Niitä on esimerkiksi "legislation", "geography" tai "culture". Sivuja voi myös olla suoraan yläkansiossa, esim. "index.md" eli etusivu ja "legislation.md".
 
