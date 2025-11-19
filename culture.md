@@ -8,7 +8,7 @@ hero_darken: true
 ---
 
 # Alhonmaan kansallissymbolit
-<img src="https://media.tenor.com/1k2Z3_dlFsgAAAAM/skull.gif" alt="Mun reaktio tästä sivusta" width="120" height="120">
+<img align="right" src="https://media.tenor.com/1k2Z3_dlFsgAAAAM/skull.gif" alt="Mun reaktio tästä sivusta" width="120" height="120">
 
 
 Liput vois lisäillä
