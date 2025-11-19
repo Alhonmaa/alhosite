@@ -9,11 +9,15 @@ hero_darken: true
 
 # Jaa että miten tätä ajetaan?
 
+## Käyttäjätili ja muokkausoikeus
+
 Jos haluat muokata nettisivua, tee github käyttäjä ja pyydä Alhonmaa-käyttäjältä, että sinut lisätään muokkaajaksi. Sen jälkeen mene prose.io sivulle, valtuuta sivusto käyttämään Github-käyttäjäsi rajapintaa ja lisää alhonmaa uudeksi projektiksi Alhonmaa/alhosite.
+
+## Sivujen lisäys ja muokkaus
 
 Sivuja voi järjestellä kansioihin. Niitä on esimerkiksi "legislation", "geography" tai "culture". Sivuja voi myös olla suoraan yläkansiossa, esim. "index.md" eli etusivu ja "legislation.md".
 
-Kaikki yläpalkin pääsivut on tarkoitus olla markdown-tiedostoina (.md) suoraan yläkansiossa. Muut sivut olisi hyvä pitää alakansioissa. Yläpalkkia voi muokata täällä tidostossa "/_data/navigation.yml".
+Kaikki yläpalkin pääsivut on tarkoitus olla markdown-tiedostoina (.md) suoraan yläkansiossa. Muut sivut olisi hyvä pitää alakansioissa.
 
 Jokainen markdown-tiedosto pitää aloittaa seuraavalla pätkällä, niinkutsutulla "front-matter" osiolla:
 
@@ -44,3 +48,7 @@ Jos tiedosto olisi kansion example alla, niin permalink kohtaan tulisi /example/
 "legislation" kansioon menee kaikki lakijutut.
 "geography" kansioon voi laiteilla rajoista ja maantieteestä jne.
 "culture" kansioon mitä vaan alhonmaalaisen kulttuurin ylpeydenaiheita.
+
+## Yläpalkki
+
+Yläpalkki (tai navigointipalkki) muokataan tiedostossa "/_data/navigation.yml". Siellä käytetään samanlaisia otsikoita ja permalinkkejä kuin markdown-tiedostojen alussakin. Lukemalla navigation.yml -tiedostoa saa aika hyvän kuvan siitä miten uusia yläpalkin sivuja lisätään.
