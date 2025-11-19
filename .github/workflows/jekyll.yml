@@ -1,34 +1,64 @@
-name: Build and Deploy Jekyll site
+name: Build & Deploy Jekyll site
 
 on:
   push:
     branches: ["main"]
-  workflow_dispatch:
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  build-and-deploy:
+
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: ruby/setup-ruby@v1
+      - name: Extract Ruby version from Gemfile.lock
+        id: ruby_version
+        run: |
+          if [ -f Gemfile.lock ]; then
+            RV=$(grep -A 1 "RUBY VERSION" Gemfile.lock | tail -n 1 | sed 's/.* //')
+            echo "ruby_version=$RV" >> $GITHUB_OUTPUT
+          else
+            echo "ruby_version=3.1" >> $GITHUB_OUTPUT
+          fi
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1
+          ruby-version: ${{ steps.ruby_version.outputs.ruby_version }}
           bundler-cache: true
-          bundler-version: 2.4.20  # match your local bundler
 
-      - run: bundle exec jekyll build
+      - name: Install dependencies
+        run: bundle install
 
-      - uses: actions/configure-pages@v5
+      - name: Setup Pages
         id: pages
+        uses: actions/configure-pages@v5
 
-      - uses: actions/upload-pages-artifact@v4
-        with:
-          path: _site
+      - name: Build site
+        run: bundle exec jekyll build --trace
+        env:
+          JEKYLL_ENV: production
 
-      - uses: actions/deploy-pages@v1
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deploy
+        uses: actions/deploy-pages@v4
