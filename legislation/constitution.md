@@ -2,6 +2,9 @@
 layout: page
 title: Lainsäädäntö ja politiikka
 permalink: /legislation/constitution/
+hero_image: /assets/images/newalhonmaa.png
+hero_height: is-fullwidth
+hero_darken: true
 ---
 
 # Alhonmaan perustuslaki

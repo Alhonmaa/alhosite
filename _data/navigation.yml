@@ -1,7 +1,9 @@
-- name: Etusivu
-  link: /
 - name: Lainsäädäntö
   link: /legislation/
   dropdown: 
     - name: Perustuslaki
       link: /legislation/constitution/
+- name: Maantiede
+  link: /geography/
+- name: Kulttuuri
+  link: /culture/

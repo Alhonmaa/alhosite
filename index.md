@@ -4,6 +4,9 @@
 
 layout: default
 title: Home
+hero_image: /assets/images/newalhonmaa.png
+hero_height: is-fullwidth
+hero_darken: true
 ---
 
 # Welcome to the official website of Alhonmaa!
