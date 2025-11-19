@@ -8,9 +8,9 @@ hero_darken: true
 ---
 
 # Alhonmaan kansallissymbolit
-<img align="right" src="/alhonmaanelio.png" alt="Mun reaktio tästä sivusta" width="120" height="120">
+<img align="right" src="/assets/images/alhonmaanelio.png" alt="Mun reaktio tästä sivusta" width="120" height="120">
 <h2>Hello<h2>
-![vvvvv]({{site.baseurl}}/alhonmaanelio.png)
+![alhonmaanelio.png]({{site.baseurl}}/alhonmaanelio.png)
 
 
 Liput vois lisäillä
