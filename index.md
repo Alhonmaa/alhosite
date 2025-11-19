@@ -8,4 +8,4 @@ title: Home
 
 # Welcome to the official website of Alhonmaa!
 
-Here you can find all sorts of info.
+Here you can find all sorts of info of Alhonmaa.
