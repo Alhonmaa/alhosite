@@ -12,7 +12,7 @@ Alhonmaan mikrovaltion alkuaikoina kansa ei ollut ottanut yhteistä symbolia edu
 
 | Selitys lipusta | Kuva lipusta |
 | ----------- | ----------- |
-| Alhonmaan ensimmäinen oikea lippu. Lakananvalkoisella taustalla on kauniin sinisellä maalattu työmiehen tarvikkeet ja viisikulmainen tähti. Valitut symbolit kuvastavat sekä alhonmaalaisten taitoa työskennellä että nauttia elämästä. Legendan mukaan viisikulmainen tähti mallintaa jokaista viittä keskeistä hallituksen jäsentä. Tähti ikäänkuin symboloi yhteistyön ja omatoimisen työn symbioosia; jokainen omassa kulmassaan tuovat oman korkensa kekoon tähden keskustaan. | ![alholippu.png](/assets/images/alholippu.png)|
+| Alhonmaan ensimmäinen oikea lippu. Lakananvalkoisella taustalla on kauniin sinisellä maalattu työmiehen tarvikkeet ja viisikulmainen tähti. Valitut symbolit kuvastavat sekä alhonmaalaisten taitoa työskennellä että nauttia elämästä. Legendan mukaan viisikulmainen tähti mallintaa jokaista viittä keskeistä hallituksen jäsentä. Tähti ikäänkuin symboloi yhteistyön ja omatoimisen työn symbioosia; jokainen omassa kulmassaan tuovat oman korkensa kekoon tähden keskustaan. | ![alholippu.png]({{site.baseurl}}/alholippu.png) |
 | Vuonna 2025 Alhonmaan uudeksi tavoitteeksi tuli löytää kansan uudistuneeseen identiteettiin sopiva lippu. Ohessa näkyvä lippu valikoitui ankarien prosessien jälkeen uudeksi lipuksi. Valiutunut lippu edustaa alhonmaalaisia paremmin tuomalla esiin eri Alhonmaan alueiden symboleja ja värejä. Vihreässä kvadrantissa oleva kultainen tunnus asetetan värittömänä/mustavalkoisena esimerkiksi passiin.|![newalhonmaa.png]({{site.baseurl}}/newalhonmaa.png)|
 
 Uudessa lipussa esiintyvät symbolit/värit ja niiden merkitykset:
